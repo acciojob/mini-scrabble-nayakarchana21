@@ -1,2 +1,11 @@
+.container {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
 
-/* Your CSS Code here. */
+input {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  width: 300px;
+}
